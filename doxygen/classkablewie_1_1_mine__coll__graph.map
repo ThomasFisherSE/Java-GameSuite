@@ -1,0 +1,4 @@
+<map id="kablewie.Mine" name="kablewie.Mine">
+<area shape="rect" id="node2" href="$classkablewie_1_1_kablewie_tile.html" title="kablewie.KablewieTile" alt="" coords="5,80,133,104"/>
+<area shape="rect" id="node3" href="$classgamesuite_1_1_tile.html" title="gamesuite.Tile" alt="" coords="24,5,115,29"/>
+</map>

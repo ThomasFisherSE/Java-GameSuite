@@ -1,0 +1,12 @@
+<map id="kablewie.SavedFile" name="kablewie.SavedFile">
+<area shape="rect" id="node2" href="$classkablewie_1_1_kablewie_controller.html" title="kablewie.KablewieController" alt="" coords="965,423,1123,447"/>
+<area shape="rect" id="node22" href="$classkablewie_1_1_kablewie_ai.html" title="kablewie.KablewieAi" alt="" coords="1288,403,1411,427"/>
+<area shape="rect" id="node6" href="$classkablewie_1_1_kablewie_settings.html" title="kablewie.KablewieSettings" alt="" coords="659,451,811,475"/>
+<area shape="rect" id="node10" href="$classkablewie_1_1_kablewie_main.html" title="kablewie.KablewieMain" alt="" coords="414,399,549,423"/>
+<area shape="rect" id="node12" href="$classkablewie_1_1_kablewie_board.html" title="kablewie.KablewieBoard" alt="" coords="663,87,806,111"/>
+<area shape="rect" id="node14" href="$classkablewie_1_1_revealed.html" title="A Revealed tile." alt="" coords="425,61,538,85"/>
+<area shape="rect" id="node15" href="$classkablewie_1_1_kablewie_tile.html" title="kablewie.KablewieTile" alt="" coords="147,87,277,111"/>
+<area shape="rect" id="node16" href="$classgamesuite_1_1_tile.html" title="gamesuite.Tile" alt="" coords="5,87,96,111"/>
+<area shape="rect" id="node21" href="$classgamesuite_1_1_player.html" title="gamesuite.Player" alt="" coords="683,5,787,29"/>
+<area shape="rect" id="node23" href="$interfacegamesuite_1_1_game_ai.html" title="gamesuite.GameAi" alt="" coords="988,471,1100,495"/>
+</map>

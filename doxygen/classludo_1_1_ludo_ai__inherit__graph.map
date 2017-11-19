@@ -1,0 +1,5 @@
+<map id="ludo.LudoAi" name="ludo.LudoAi">
+<area shape="rect" id="node2" href="$classludo_1_1_ludo_player.html" title="ludo.LudoPlayer" alt="" coords="8,77,107,101"/>
+<area shape="rect" id="node3" href="$classgamesuite_1_1_player.html" title="gamesuite.Player" alt="" coords="5,5,109,29"/>
+<area shape="rect" id="node4" href="$interfacegamesuite_1_1_game_ai.html" title="gamesuite.GameAi" alt="" coords="131,77,243,101"/>
+</map>

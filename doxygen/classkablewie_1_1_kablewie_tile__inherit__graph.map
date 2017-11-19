@@ -1,0 +1,7 @@
+<map id="kablewie.KablewieTile" name="kablewie.KablewieTile">
+<area shape="rect" id="node3" href="$classkablewie_1_1_defused.html" title="kablewie.Defused" alt="" coords="5,149,115,173"/>
+<area shape="rect" id="node4" href="$classkablewie_1_1_mine.html" title="kablewie.Mine" alt="" coords="139,149,229,173"/>
+<area shape="rect" id="node5" href="$classkablewie_1_1_revealed.html" title="A Revealed tile." alt="" coords="254,149,367,173"/>
+<area shape="rect" id="node6" href="$classkablewie_1_1_secret_tile.html" title="kablewie.SecretTile" alt="" coords="391,149,507,173"/>
+<area shape="rect" id="node2" href="$classgamesuite_1_1_tile.html" title="gamesuite.Tile" alt="" coords="201,5,292,29"/>
+</map>

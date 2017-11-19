@@ -1,0 +1,4 @@
+<map id="gamesuite.GameAi" name="gamesuite.GameAi">
+<area shape="rect" id="node3" href="$classkablewie_1_1_kablewie_ai.html" title="kablewie.KablewieAi" alt="" coords="5,149,128,173"/>
+<area shape="rect" id="node4" href="$classludo_1_1_ludo_ai.html" title="ludo.LudoAi" alt="" coords="153,149,231,173"/>
+</map>

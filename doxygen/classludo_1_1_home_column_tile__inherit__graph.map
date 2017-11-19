@@ -1,0 +1,4 @@
+<map id="ludo.HomeColumnTile" name="ludo.HomeColumnTile">
+<area shape="rect" id="node2" href="$classludo_1_1_ludo_tile.html" title="ludo.LudoTile" alt="" coords="24,77,109,101"/>
+<area shape="rect" id="node3" href="$classgamesuite_1_1_tile.html" title="gamesuite.Tile" alt="" coords="21,5,112,29"/>
+</map>

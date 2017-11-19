@@ -1,0 +1,14 @@
+<map id="ludo.HomeAreaTile" name="ludo.HomeAreaTile">
+<area shape="rect" id="node2" href="$classludo_1_1_ludo_tile.html" title="ludo.LudoTile" alt="" coords="1049,959,1135,983"/>
+<area shape="rect" id="node4" href="$classludo_1_1_piece.html" title="ludo.Piece" alt="" coords="1511,847,1582,871"/>
+<area shape="rect" id="node3" href="$classgamesuite_1_1_tile.html" title="gamesuite.Tile" alt="" coords="799,935,889,959"/>
+<area shape="rect" id="node23" href="$classgamesuite_1_1_board.html" title="gamesuite.Board" alt="" coords="1041,908,1143,932"/>
+<area shape="rect" id="node27" href="$classgamesuite_1_1_dice.html" title="gamesuite.Dice" alt="" coords="218,651,313,675"/>
+<area shape="rect" id="node6" href="$classludo_1_1_ludo_controller.html" title="ludo.LudoController" alt="" coords="509,541,624,565"/>
+<area shape="rect" id="node14" href="$classludo_1_1_ludo_settings.html" title="ludo.LudoSettings" alt="" coords="1038,223,1146,247"/>
+<area shape="rect" id="node19" href="$classludo_1_1_ludo_player.html" title="ludo.LudoPlayer" alt="" coords="795,609,893,633"/>
+<area shape="rect" id="node22" href="$classludo_1_1_ludo_board.html" title="ludo.LudoBoard" alt="" coords="1271,625,1369,649"/>
+<area shape="rect" id="node24" href="$classludo_1_1_starting_area.html" title="ludo.StartingArea" alt="" coords="1039,668,1145,692"/>
+<area shape="rect" id="node26" href="$classludo_1_1_home_area.html" title="ludo.HomeArea" alt="" coords="1499,612,1595,636"/>
+<area shape="rect" id="node20" href="$classgamesuite_1_1_player.html" title="gamesuite.Player" alt="" coords="515,715,619,739"/>
+</map>
